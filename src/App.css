@@ -20,14 +20,14 @@
 }
 .image-block {
   width: 100vw;
-  height: 40vh;
+  height: 30vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
 }
 .upload-block {
  width: 100vw;
- height: 40vh;
+ height: 50vh;
  display: flex;
  flex-direction: row;
  align-items: center;
